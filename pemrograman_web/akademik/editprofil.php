@@ -1,5 +1,4 @@
 <?php
-// JANGAN panggil session_start() di sini
 require 'koneksi.php';
 
 $email_session = $_SESSION['email'];
